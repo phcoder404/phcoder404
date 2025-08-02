@@ -42,8 +42,8 @@ A ideia é usar este espaço como um **diário de desenvolvimento**, mostrando m
 
 Se quiser acompanhar minha jornada ou trocar ideias:
 
-- Email: **[seuemail@gmail.com]**
-- LinkedIn: [Seu LinkedIn aqui]
+- Email: **[pedrohenriquez2605@gmail.com]**
+- LinkedIn: [[pedro-henrique2605](https://www.linkedin.com/in/pedro-henrique2605/)]
 - GitHub: [github.com/phcoder404](https://github.com/phcoder404)
 
 ---
