@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Pedro Henrique
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e entrei no mundo da programação recentemente. Estou em fase de aprendizado, testes e descobertas — mas com muita vontade de evoluir constantemente e construir meu caminho na tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas e entrei no mundo da programação recentemente. Estou em fase de aprendizado, testes e descobertas mas com muita vontade de evoluir constantemente e construir meu caminho na tecnologia.
 
 ---
 
@@ -34,7 +34,7 @@ A ideia é usar este espaço como um **diário de desenvolvimento**, mostrando m
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 📍 Brasil
 - 👨‍💻 Focado em construir uma base sólida para me tornar um desenvolvedor back-end (ou full-stack futuramente)
-- 📈 Aberto a aprender sempre — tecnologia é evolução constante!
+- 📈 Aberto a aprender sempre tecnologia é evolução constante!
 
 ---
 
