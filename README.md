@@ -2,102 +2,85 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento de software.
 
-Atualmente, estou construindo uma base sólida em programação com foco em desenvolvimento Back-End, criando projetos práticos e aprofundando meus conhecimentos em Java, Spring Boot, APIs REST e Inteligência Artificial.
+Atualmente, estou construindo uma base sólida em programação com foco em desenvolvimento Back-End, criando projetos práticos e aprofundando meus conhecimentos em Java, APIs REST, Spring Boot e Inteligência Artificial.
 
 ---
 
-## 🚀 Tecnologias e Áreas de Estudo
+## 🚀 Tecnologias e áreas de estudo
 
-### 💻 Desenvolvimento Back-End
+### 💻 Desenvolvimento
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🔗 APIs REST
-* 🗄️ SQL
-* 🌿 Git & GitHub
-* 💡 IntelliJ IDEA
+* Java
+* Spring Boot
+* APIs REST
+* SQL
+* Git e GitHub
+* IntelliJ IDEA
 
-### 🧠 Fundamentos da Programação
+### 🧠 Fundamentos
 
 * Programação Orientada a Objetos (POO)
 * Estruturas de Dados
 * Algoritmos
 * Lógica de Programação
-* Clean Code
 * Boas Práticas de Desenvolvimento
 * Organização e Arquitetura de Projetos
 
 ### 🤖 Inteligência Artificial
 
-* Conceitos Fundamentais de IA
-* IA Generativa
-* Engenharia de Prompt
-* Aplicações Práticas com IA
-* Integração de IA em Sistemas
+* Conceitos fundamentais de IA
+* Ferramentas de IA Generativa
+* Aplicações práticas de Inteligência Artificial
+* Integração de IA em projetos e soluções
 
----
-
-## 📚 Atualmente Aprendendo
+### 📚 Atualmente aprendendo
 
 * Desenvolvimento Back-End com Java e Spring Boot
 * Construção de APIs REST
-* Integração com Banco de Dados Relacionais
-* Versionamento de Código com Git e GitHub
-* Arquitetura em Camadas
-* Boas Práticas de Desenvolvimento
-* Aplicações de Inteligência Artificial
+* Persistência de dados com SQL
+* Versionamento de código com Git e GitHub
+* Arquitetura de aplicações em camadas
+* Integração de Inteligência Artificial em aplicações
 
 ---
 
-## 🎯 Objetivo deste Repositório
+## 🎯 Objetivo deste repositório
 
-Este repositório foi criado para documentar minha evolução como desenvolvedor.
+Este repositório funciona como um registro da minha evolução como desenvolvedor.
 
 Aqui você encontrará:
 
-* 🚀 Projetos práticos desenvolvidos durante meus estudos
-* ☕ Aplicações Back-End com Java e Spring Boot
-* 🔗 APIs REST
-* 🗄️ Projetos com integração a banco de dados
-* 🧩 Exercícios de lógica, algoritmos e estruturas de dados
-* 🤖 Estudos e experimentos com Inteligência Artificial
-* 📝 Anotações, aprendizados e desafios enfrentados ao longo da jornada
+* Projetos desenvolvidos durante meus estudos
+* Aplicações Back-End com Java e Spring Boot
+* APIs REST
+* Exercícios de lógica e algoritmos
+* Projetos integrados com banco de dados
+* Experimentos e estudos com Inteligência Artificial
+* Anotações e aprendizados adquiridos ao longo da jornada
 
-Meu objetivo é construir um portfólio sólido, demonstrando minha evolução técnica e meu compromisso com o aprendizado contínuo.
+Meu objetivo é documentar meu crescimento profissional, compartilhar conhecimento e construir um portfólio sólido para minha carreira na área de tecnologia.
 
 ---
 
-## 💼 Sobre Mim
+## 💼 Sobre mim
 
 * 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 * 🇧🇷 Brasil
 * 👨‍💻 Focado em Desenvolvimento Back-End
-* ☕ Entusiasta do ecossistema Java
+* ☕ Estudando Java e Spring Boot
 * 🤖 Explorando Inteligência Artificial e suas aplicações
-* 📈 Sempre buscando aprender, evoluir e criar soluções cada vez melhores
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phcoder404\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phcoder404\&layout=compact)
-
-</div>
+* 🚀 Construindo projetos para evoluir constantemente
 
 ---
 
 ## 📬 Contato
 
-📧 **Email:** [pedrohenriquez2605@gmail.com](mailto:pedrohenriquez2605@gmail.com)
+📧 Email: [pedrohenriquez2605@gmail.com](mailto:pedrohenriquez2605@gmail.com)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/pedro-henrique2605/
+🔗 LinkedIn: linkedin.com/in/pedro-henrique2605
 
-🐙 **GitHub:** https://github.com/phcoder404
+🐙 GitHub: github.com/phcoder404
 
 ---
 
-> 🧠 *"Não preciso ser o melhor agora. Só preciso ser melhor do que ontem."*
+> "Não preciso ser o melhor agora. Só preciso ser melhor do que ontem."
